@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.bottom {
+  display: flex;
+}
+.left {
+  padding-left: 11rem;
+  margin-right: 3rem;
+}
+.leftBody img {
+  margin-top: 2rem;
+}
+.text {
+  margin-top: 1rem;
+}
+.text p {
+  font-size: 28px;
+  color: #333;
+}
+.text .news {
+  font-size: 20px;
+  margin-top: 5px;
+}
+.right {
+  margin-top: 25px;
+  border-left: 1px solid rgba(128, 128, 128, 0.5);
+}
+.rightBody {
+  margin-left: 2rem;
+  margin-right: 5rem;
+  font-weight: 100;
+}
+.title {
+  color: #111;
+  font-weight: 100;
+}
+a {
+  text-decoration: none;
+}
+.rightBody p {
+  margin-bottom: 1rem;
+}
+.post-title {
+  margin-top: 1.5rem;
+}
